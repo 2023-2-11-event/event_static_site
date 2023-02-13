@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://img.activityjapan.com/wi/kyoto_autumn_001.jpg);
     background-size: cover;
 }
 
@@ -22,8 +22,8 @@
     /* display: inline; */
     font-size: 4em;
     font-weight: bold;
-    font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    font-family: Times; 
+    color: rgb(10, 245, 128);
     text-align: center;
 }
 
